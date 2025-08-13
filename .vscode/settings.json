@@ -1,0 +1,11 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": [],
+    "python.analysis.autoImportCompletions": true,
+    "python.defaultInterpreterPath": "C:/Users/adith/miniconda3/envs/emerson/python.exe",
+    "notebook.output.textLineLimit": 40,
+    "python.analysis.indexing": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.dataScience.textOutputLimit" : 400
+}
