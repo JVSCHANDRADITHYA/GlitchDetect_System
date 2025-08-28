@@ -1,0 +1,1 @@
+class Checky_sin()
